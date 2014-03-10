@@ -61,7 +61,9 @@ class Welcome extends CI_Controller {
 	}
 
 	public function test() {
-		/*$this -> load -> helper(array('form', 'url'));
+		/*code commenté
+		 * 
+		 * $this -> load -> helper(array('form', 'url'));
 
 		$this -> load -> library('form_validation');
 
